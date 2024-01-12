@@ -192,6 +192,6 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-gilt.vercel.app?user=niicodeer&theme=dark&border_radius=8&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0A192F&ring=60F7D5&fire=60F7D5&currStreakLabel=60F7D5&border=14325E" alt="GitHub Streak" /></a>
 <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Most used languages" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicodeer&layout=donut-vertical" alt="Most used languages" /></a>
 </div>
 <br/><br/>
