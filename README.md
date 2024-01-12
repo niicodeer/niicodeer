@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=32&duration=4000&pause=1000&color=60F7D5&background=0A192F&center=true&vCenter=true&random=false&width=960&height=120&lines=Hola%2C+Soy+Nico!+%F0%9F%91%8B;Desarrollador++Full-stack+%F0%9F%92%BB;Estudiante+de+Tecnicatura+Superior+en+Programaci%C3%B3n+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=32&duration=4000&pause=1000&color=60F7D5&background=0A192F&center=true&vCenter=true&random=false&width=1024&height=120&lines=Hola%2C+Soy+Nico!+%F0%9F%91%8B;Desarrollador++Full-stack+%F0%9F%92%BB;Estudiante+de+Tecnicatura+Superior+en+Programaci%C3%B3n+)](https://git.io/typing-svg)
 
 <div align="center">
 
