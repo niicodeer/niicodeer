@@ -1,94 +1,164 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=32&duration=4000&pause=1000&color=60F7D5&background=0A192F&center=true&vCenter=true&random=false&width=960&height=120&lines=Hola%2C+Soy+Nico!+%F0%9F%91%8B;Desarrollador++Full-stack+%F0%9F%92%BB;Estudiante+de+Tecnicatura+Superior+en+Programaci%C3%B3n+)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niicodeer" alt="niicodeer" /></a> </p>
+<h1>Sobre mi</h1>
 
-- 🔭 I’m currently working on **Sistema de inscripciones escolar**
+<p>
+  💻 <strong>Desarrollador fullstack junior</strong>  aunque mi corazón se inclina hacia el <i>frontend</i> ❤ donde disfruto dando vida a interfaces atractivas y funcionales. Cuento con 1+ de experiencia trabajando en diversos proyectos. He tenido la oportunidad de trabajar con una variedad de tecnologías, incluyendo: <i>Javascript, React, React Native, Flutter, Php, Laravel, Mysql, Firebase y Firestore.</i>
+</p>
+  <p>✅Tambien soy estudiante de Tecnicatura Superior de Programación, donde me encuentro en mi último año.🙌</p>
+<p>
+  📖 Me gusta estar aprendiendo constantemente de manera autodidacta. Actualmente, me encuentro incursionando en el mundo de Vue y NuxtJs, ampliando mis habilidades y explorando nuevas formas de crear experiencias de usuario envolventes.
+</p>
 
-- 🌱 I’m currently learning **VueJs / NuxtJs**
+<p> 💪En constante búsqueda de desafíos emocionantes y oportunidades para crecer, estoy comprometido con la mejora continua y la construcción de productos que marquen la diferencia.</p>
 
-- 👨‍💻 All of my projects are available at [https://nicoradin-portfolio.web.app/](https://nicoradin-portfolio.web.app/)
+<p>🚀 ¡Gracias por visitar mi perfil! 🚀</p>
+<br/>
+<br/>
 
-- 📫 How to reach me **nicoradin.job@gmail.com**
+- 🔭 Actualmente estoy desarrollando en equipo **Sistema de inscripciones escolar**
+
+- 🌱 Actualmente me encuentro aprendiendo sobre: **VueJs / NuxtJs**
+
+- 👨‍💻 Puedes darte una vuelta por mi portfolio: [https://nicoradin-portfolio.web.app/](https://nicoradin-portfolio.web.app/)
+
+- 📫 Puedes contactarme por Gmail: **nicoradin.job@gmail.com**
+
+<br/>
+<br/>
 
 <h3 align="left">Conectá conmigo:</h3>
 <div align="center"> 
   
-<a href="https://linkedin.com/in/nico-radin" target="blank" >[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nico-radin)</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nico-radin)   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nicoradin.job@gmail.com)
 
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nicoradin.job@gmail.com)
-  
-<a href="https://linkedin.com/in/nico-radin" target="blank" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nico-radin" width="150px"  /></a>
-<a href="mailto:nicoradin.job@gmail.com" target="blank"><img align="center" width="120px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail nico radin" /></a>
 </div>
+<br/>
 
 <h3 align="left">Stack:</h3>
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](#)
-
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,php,java)](#)
-
-[![My Skills](https://skillicons.dev/icons?i=react,vue)](#)
-
-[![My Skills](https://skillicons.dev/icons?i=laravel,express)](#)
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](#)
-
-
-<table width="420px">
+<table width="800px">
     <tbody>
-        <tr valign="top">
-            <td width="500px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+        <tr valign="top" border-top="none">
+            <td width="100px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=html">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Aws</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+            <td width="100px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=css">
             </td>
-           <td width="120px" align="center">
-            <span><strong>Spring Boot</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+            <td width="100px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=bootstrap">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Typescript</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            <td width="100px" align="center">
+            <span><strong>Tailwind</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=tailwind">
             </td>
-           <td width="80px" align="center">
-            <span><strong>Javascipt</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td> 
         </tr>
         <tr valign="top">
-           <td width="80px" align="center">
-            <span><strong>PostgreSQL</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+            <td width="100px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=js">
             </td>
-            <td width="150px" align="center">
-            <span><strong>React Js - Native</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <td width="100px" align="center">
+            <span><strong>Typescript</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=ts">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            <td width="100px" align="center">
+            <span><strong>NodeJs</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=nodejs">
             </td>
-             <td width="80px" align="center">
+            <td width="100px" align="center">
+            <span><strong>PHP</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=php">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=java">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="100px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=react">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Vue</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=vue">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="100px" align="center">
+            <span><strong>Laravel</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=laravel">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Express</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=express">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="100px" align="center">
+            <span><strong>Mysql</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=mysql">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=mongodb">
+            </td>
+            </td>
+            <td width="100px" align="center">
             <span><strong>Firebase</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+            <img height="48" src="https://skillicons.dev/icons?i=firebase">
             </td>
-             <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+        </tr>
+          <tr valign="top">
+            <td width="100px" align="center">
+            <span><strong>React Native</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=react">
             </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="100px" align="center" valign="center">
+            <span><strong>Flutter</strong></span><br>
+            <img height="48" src="https://skillicons.dev/icons?i=flutter">
             </td>
         </tr>
     </tbody>
 </table>
+<br/>
+<h3 align="left">Otras Herramientas:</h3>
+<table>
+  <tr>
+   <td width="100px" align="center">
+    <span><strong>Git</strong></span><br>
+    <img height="48" src="https://skillicons.dev/icons?i=git">
+   </td>
+   <td width="100px" align="center">
+    <span><strong>GitHub</strong></span><br>
+    <img height="48" src="https://skillicons.dev/icons?i=github">
+   </td>
+   <td width="100px" align="center">
+    <span><strong>Bitbucket</strong></span><br>
+    <img height="48" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Bitbucket-icon.png">
+   </td>
+   <td width="100px" align="center">
+    <span><strong>Jira</strong></span><br>
+    <img height="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/48/jira_cloud_macos_bigsur_icon_190051.png">
+   </td>
+   <td width="100px" align="center">
+    <span><strong>Trello</strong></span><br>
+    <img height="48" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/48/web-trello-icon.png">
+   </td>
+   <td width="100px" align="center">
+    <span><strong>Figma</strong></span><br>
+    <img height="48" src="https://skillicons.dev/icons?i=figma">
+   </td>
+   <td width="100px" align="center">
+    <span><strong>Vite</strong></span><br>
+    <img height="48" src="https://skillicons.dev/icons?i=vite">
+   </td>
+  </tr>
+</table>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niicodeer&show_icons=true&locale=en&layout=compact" alt="niicodeer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niicodeer&show_icons=true&locale=en" alt="niicodeer" /></p>
