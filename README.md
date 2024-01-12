@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=32&duration=4000&pause=1000&color=60F7D5&background=0A192F&center=true&vCenter=true&random=false&width=960&height=120&lines=Hola%2C+Soy+Nico!+%F0%9F%91%8B;Desarrollador++Full-stack+%F0%9F%92%BB;Estudiante+de+Tecnicatura+Superior+en+Programaci%C3%B3n+)](https://git.io/typing-svg)
 
+<div align="center">
+
 <h2>🙋‍♂️ Sobre mi</h2>
 <p>
   💻 <strong>Desarrollador Full-stack junior</strong>  aunque mi corazón se inclina hacia el <i>frontend</i> ❤ donde disfruto dando vida a interfaces atractivas y funcionales. Cuento con 1+ de experiencia trabajando en diversos proyectos. He tenido la oportunidad de trabajar con una variedad de tecnologías, incluyendo: <i>Javascript, React, React Native, Flutter, Php, Laravel, Mysql, Firebase y Firestore.</i>
@@ -16,6 +18,7 @@
 <br/>
 <hr/>
 <br/>
+<div align="left">
 
 - 🔭 Actualmente estoy desarrollando en equipo un **Sistema de inscripciones escolar** [Repositorio](https://github.com/niicodeer/sistema-inscripciones-et1/tree/develop)
 
@@ -24,12 +27,14 @@
 - 👨‍💻 Puedes darte una vuelta por: [Mi Portfolio](https://nicoradin-portfolio.web.app/)
 
 - 📫 Puedes contactarme por [Gmail](mailto:nicoradin.job@gmail.com)
-
+</div>
+</div>
 <br/>
 <hr/>
+<br/>
 
-<h3 align="left">Conectá conmigo:</h3>
 <div align="center"> 
+<h2 align="center">Conectá conmigo:</h2>
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nico-radin)   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nicoradin.job@gmail.com)
 
@@ -37,7 +42,11 @@
 <br/>
 <br/>
 <hr/>
-<h3 align="left">⚒ Stack:</h3>
+<br/>
+
+
+<div align="center"> 
+<h2 align="center">⚒ Stack ⚒</h2>
 
 <table width="800px">
     <tbody>
@@ -129,7 +138,7 @@
     </tbody>
 </table>
 <br/>
-<h3 align="left">🔧 Otras Herramientas:</h3>
+<h2 align="center">🔧 Otras Herramientas 🔧</h2>
 <table>
   <tr>
    <td width="100px" align="center">
@@ -162,11 +171,15 @@
    </td>
   </tr>
 </table>
+</div>
+
 <br/>
 <br/>
 <hr/>
+<br/>
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Mis contribuciones 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/niicodeer/niicodeer/output/github-contribution-grid-snake.svg" />
   
@@ -175,7 +188,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-gilt.vercel.app?user=niicodeer&theme=dark&border_radius=8&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0A192F&ring=60F7D5&fire=60F7D5&currStreakLabel=60F7D5&border=14325E" alt="GitHub Streak" /></a>
+<br/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Most used languages" /></a>
 </div>
 <br/><br/>
